@@ -20,7 +20,6 @@ public class DikUcgen {
         alan = (a * b) / 2.0 ;
         System.out.println("Dik Üçgenin Alanı : " + alan);
 
-
         //Üç kenarının kullanıcıdan alınarak alanın hesaplayalım.
         System.out.println("İkinci kısım : ");
         double a2,b2,c2,alan2;
@@ -34,7 +33,6 @@ public class DikUcgen {
         u = (a + b + c) / 2;
         alan2 = Math.sqrt(u * (u - a2) * (u - b2) * (u - c2));
         System.out.println("Üçgenin Alanı : " + alan2);
-
 
     }
 }

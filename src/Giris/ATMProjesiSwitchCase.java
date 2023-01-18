@@ -66,13 +66,5 @@ public class ATMProjesiSwitchCase {
             }
         }
 
-
-
-
-
-
-
-
-
     }
 }
